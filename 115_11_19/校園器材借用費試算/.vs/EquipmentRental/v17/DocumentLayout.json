@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|c:\\users\\m303\\documents\\github\\115_1_c_sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\equipmentrental\\rentalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|solutionrelative:equipmentrental\\rentalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m303\\Desktop\\RentalForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|c:\\users\\m303\\documents\\github\\115_1_c_sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\equipmentrental\\rentalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|solutionrelative:equipmentrental\\rentalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|c:\\users\\m303\\documents\\github\\115_1_c_sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\equipmentrental\\rentalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|solutionrelative:equipmentrental\\rentalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|c:\\users\\m303\\documents\\github\\115_1_c_sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\equipmentrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|solutionrelative:equipmentrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|c:\\users\\m303\\documents\\github\\115_1_c_sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\equipmentrental\\equipmentrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3ED24417-9695-40FE-976B-604B4C07F231}|EquipmentRental\\EquipmentRental.csproj|solutionrelative:equipmentrental\\equipmentrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\RentalForm.cs",
+              "RelativeDocumentMoniker": "EquipmentRental\\RentalForm.cs",
+              "ToolTip": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\RentalForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "EquipmentRental\\RentalForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:55:11.222Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\RentalForm.Designer.cs",
+              "RelativeDocumentMoniker": "EquipmentRental\\RentalForm.Designer.cs",
+              "ToolTip": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\RentalForm.Designer.cs",
+              "RelativeToolTip": "EquipmentRental\\RentalForm.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:40:43.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalForm.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\RentalForm.cs",
+              "RelativeDocumentMoniker": "EquipmentRental\\RentalForm.cs",
+              "ToolTip": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\RentalForm.cs",
+              "RelativeToolTip": "EquipmentRental\\RentalForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:40:35.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalForm.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\RentalForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\RentalForm.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\RentalForm.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\RentalForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAQwH0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:37:08.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\Program.cs",
+              "RelativeDocumentMoniker": "EquipmentRental\\Program.cs",
+              "ToolTip": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\Program.cs",
+              "RelativeToolTip": "EquipmentRental\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:33:13.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipmentRental.csproj",
+              "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\EquipmentRental.csproj",
+              "RelativeDocumentMoniker": "EquipmentRental\\EquipmentRental.csproj",
+              "ToolTip": "C:\\Users\\m303\\Documents\\GitHub\\115_1_c_Sharp\\115_11_19\\\u6821\u5712\u5668\u6750\u501F\u7528\u8CBB\u8A66\u7B97\\EquipmentRental\\EquipmentRental.csproj",
+              "RelativeToolTip": "EquipmentRental\\EquipmentRental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-19T07:32:57.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
